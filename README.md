@@ -1,12 +1,33 @@
-# Arch-XFCE-Dotfiles
-I am putting my current Arch xfce rice down below. You can use it on debian or any other xfce enviornments just make sure to configure it according to your own need. My monitor resolution is 1366x768.
-<br>
 ### Screenshots:
+
 ![Desktop](.assets/screenshots/2023-08-03_15-15.png) <hr>
 ![With some utilities](.assets/screenshots/2023-08-03_15-13.png) <hr>
 ![Tilled Window](.assets/screenshots/2023-08-03_18-38.png)
 
 ### Installation:
-First download this archive file [dotfiles.tar](). Then unzip it, after unzipping it you'll get all the configuration file you need. After that place all the contents according to directories and make some changes according to your need. Then unzip the `cursor.tar.gz` file and use `lxappearance` and import the tar file and select the cursor theme pack.
+The following instructions will guide you through the installation of my current Arch Xfce rice on Debian or any other Xfce environment. Please make sure to configure the rice according to your own needs.
 
-I used `pywal` utility to generate the color scheme. you'll find a short tutorial on how to generate the same color scheme as me inside `.cache/wal`.
+1. First download `xfce4` & `xfce4-goodies`.
+2. Download the archive file [dotfiles.tar](https://mega.nz/file/3EMnUBhZ#keXOrmTesk7oUJ1DjA0gAL02WMu9_L5dSg7RNZJKt_Y).
+3. Unzip the file.
+4. Place the contents of the archive file in the appropriate directories.
+5. Make any necessary changes to the configuration files.
+6. Use the `lxappearance` tool to import the `cursor.tar.gz` file and select it as cursor theme.
+
+### Color Scheme:
+The color scheme for this rice was generated using the `pywal` utility. A short tutorial on how to generate the same color scheme can be found in the `.cache/wal` directory.
+
+### Panel and Tiling:
+A panel has been added to the right side of the screen for window buttons. Xfce's tiling feature has also been enabled. Please adjust the keybinds to your liking.
+
+### System Information:
+- Operating System: Arch
+- Desktop Environment: Xfce4
+- Theme: Gruvbox
+- Panel: Xfce4-panel
+- Terminal: Xfce4-terminal-emulator
+- Firefox Theme: Gruvbox
+- Screen Resolution: 1366x768
+- Display Manager: SDDM With sugar dark theme
+  
+I hope you enjoy using this rice!
