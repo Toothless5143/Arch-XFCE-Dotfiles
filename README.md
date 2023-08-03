@@ -29,5 +29,6 @@ A panel has been added to the right side of the screen for window buttons. Xfce'
 - Firefox Theme: Gruvbox
 - Screen Resolution: 1366x768
 - Display Manager: SDDM With sugar dark theme
+- File Manager: Thunar
   
 I hope you enjoy using this rice!
