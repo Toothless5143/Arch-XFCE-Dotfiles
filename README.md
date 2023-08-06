@@ -8,8 +8,8 @@
 The following instructions will guide you through the installation of my current Arch Xfce rice on Debian or any other Xfce environment. Please make sure to configure the rice according to your own needs.
 
 1. First download `xfce4` & `xfce4-goodies`.
-2. Clone the repository.
-3. Place the contents of the archive file in the appropriate directories.
+2. Clone the repository `git clone https://github.com/Toothless5143/Arch-XFCE-Dotfiles.git`.
+3. Place the contents in the appropriate directories.
 4. Make any necessary changes to the configuration files.
 5. Use the `lxappearance` tool to import the `cursor.tar.gz` file and select it as cursor theme.
 
