@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/toothless/.wallpapers/7731792.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151312",
+        "foreground": "#ded3c9",
+        "cursor": "#ded3c9"
+    },
+    "colors": {
+        "color0": "#151312",
+        "color1": "#9C9469",
+        "color2": "#C7A945",
+        "color3": "#3F7A83",
+        "color4": "#B36988",
+        "color5": "#568E8B",
+        "color6": "#A6A08E",
+        "color7": "#ded3c9",
+        "color8": "#9b938c",
+        "color9": "#9C9469",
+        "color10": "#C7A945",
+        "color11": "#3F7A83",
+        "color12": "#B36988",
+        "color13": "#568E8B",
+        "color14": "#A6A08E",
+        "color15": "#ded3c9"
+    }
+}
